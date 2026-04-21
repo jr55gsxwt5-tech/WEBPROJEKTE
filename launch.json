@@ -10,7 +10,7 @@
             "type": "msedge",
             "request": "launch",
             "name": "Open index.html",
-            "file": "c:\\Users\\ilian\\Downloads\\WEBPROJEKTE\\ContainerRent\\index.html"
-        }
+            "file": "c:\\Users\\ilian\\Downloads\\WEBPROJEKTE\\ContainerRent\\index.html"    
+        }   
     ]
 }
